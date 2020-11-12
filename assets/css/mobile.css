@@ -1,0 +1,91 @@
+.b-movil{
+ border: none !important;
+ width: auto !important;
+}
+.i-nav{
+    color: white !important;
+    
+}
+
+.a-logo{
+    margin: 0px !important;
+    width: 30%;
+}
+.logo{
+    margin-top: 0px;
+}
+.ul-top{
+    margin-left: 0px;
+}
+
+.activate{
+
+    border-bottom: none; 
+}
+
+
+.ico-note{
+    width: 8%;
+}
+.ico-usa{
+    width: 10%;
+}
+
+.li-icon{
+    margin-top: 7%;
+    
+}
+
+.ico-lupa{
+    width: 10%;
+}
+
+.li-lupa {
+    margin-left: 0%;
+}
+.hero{
+    display: block;
+}
+
+.main-t{
+    text-align: center;
+}
+
+.main-p{
+    margin-left: 5% ;
+    margin-right: 5% ;
+    width: 90%;
+    text-align: center;
+}
+.p-separator{
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+.main-form{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.ckeckout{
+    text-align: center;
+}
+.ul-footer{
+    display: block !important;
+    padding-left: 0px;
+    text-align: center;
+}
+.nav-item{
+    max-width: 100% !important;
+}
+
+.logo-footer{
+    
+    width: 30%;
+    
+}
+
+footer p{
+    text-align: center;
+}
